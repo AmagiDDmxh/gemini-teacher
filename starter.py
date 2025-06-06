@@ -311,7 +311,7 @@ First, ask which theme they want to practice (business, travel, daily life, soci
         async with (proxy_connect(uri, proxy=proxy) if proxy else connect(uri)) as ws:
             self.ws = ws
             self.console.print("Gemini 英语口语助手", style="green", highlight=True)
-            self.console.print("Make by twitter: @BoxMrChen", style="blue")
+            self.console.print("Made by Twitter@BoxMrChen and Twitter@Ameowagi", style="blue")
             self.console.print("============================================", style="yellow")
             
             await self.startup()
