@@ -2,7 +2,7 @@
 
 这是一个基于 Google Gemini AI 的英语口语练习助手，它能实时识别你的英语发音，提供即时反馈和纠正建议。
 
-Make by [Box](https://x.com/boxmrchen)
+Made by [Box](https://x.com/boxmrchen) & [Amagi](https://x.com/ameowagi)
 
 ## 功能特点
 
